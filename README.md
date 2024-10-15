@@ -1,0 +1,1 @@
+This project is about extracting top 50nifty company details from the website "https://en.wikipedia.org/wiki/NIFTY_50" and created as a CSV file using BeautifulSoup. I got this idea from watching a youtube channel "Alex the analyst", here I have used a different website to implement my knowlege.
